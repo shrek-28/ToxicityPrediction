@@ -27,7 +27,7 @@ It contains:
 * Exporting reproducible models for deployment and future predictions
 
 # Overview of the Pipeline
-![PipelineOverview](images\toxicityWF.png)
+![PipelineOverview](images/toxicityWF.png)
 
 #### **Exploratory Data Analysis (EDA)**
 * Visualized distribution of different molecular features and class imbalances. 
