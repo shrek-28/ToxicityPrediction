@@ -10,7 +10,20 @@ It contains:
   - Nuclear Receptor Pathways: NR-AR, NR-AR-LBD, NR-AhR, NR-ER, NR-ER-LBD, NR-PPAR-γ
   - Stress Response Pathways: SR-ARE, SR-ATAD5, SR-HSE, SR-MMP, SR-p53
 
-<markdown table - all the biological importances>
+| Target        | Full Name                                        | Pathway Type     | Biological Relevance                                                                            |
+| ------------- | ------------------------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------- |
+| **NR-AR**     | Androgen Receptor                                | Nuclear Receptor | Regulates development of male characteristics; key in prostate cancer and endocrine disruption. |
+| **NR-AR-LBD** | Androgen Receptor Ligand Binding Domain          | Nuclear Receptor | Focuses on ligand binding effects; disruption can indicate endocrine interference.              |
+| **NR-AhR**    | Aryl Hydrocarbon Receptor                        | Nuclear Receptor | Mediates xenobiotic metabolism; activated by dioxins and environmental toxins.                  |
+| **NR-ER**     | Estrogen Receptor                                | Nuclear Receptor | Regulates female reproductive system; critical in breast cancer and hormonal balance.           |
+| **NR-ER-LBD** | Estrogen Receptor Ligand Binding Domain          | Nuclear Receptor | Tests direct binding to ER; useful in detecting estrogenic or anti-estrogenic effects.          |
+| **NR-PPAR-γ** | Peroxisome Proliferator-Activated Receptor Gamma | Nuclear Receptor | Involved in lipid metabolism, insulin sensitivity, and adipocyte differentiation.               |
+| **SR-ARE**    | Antioxidant Response Element                     | Stress Response  | Measures activation of Nrf2 pathway; key in cellular defense against oxidative stress.          |
+| **SR-ATAD5**  | ATPase Family AAA Domain-Containing Protein 5    | Stress Response  | Involved in DNA replication stress response; linked to genomic stability and repair.            |
+| **SR-HSE**    | Heat Shock Element                               | Stress Response  | Monitors heat shock response; triggers expression of chaperone proteins under stress.           |
+| **SR-MMP**    | Mitochondrial Membrane Potential                 | Stress Response  | Indicates mitochondrial integrity; disruption implies apoptosis or metabolic damage.            |
+| **SR-p53**    | Tumor Protein p53                                | Stress Response  | Guardian of the genome; regulates DNA damage response, cell cycle, and apoptosis.               |
+
 
 # Objectives of the Project
 
