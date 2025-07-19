@@ -24,7 +24,6 @@ It contains:
 | **SR-MMP**    | Mitochondrial Membrane Potential                 | Stress Response  | Indicates mitochondrial integrity; disruption implies apoptosis or metabolic damage.            |
 | **SR-p53**    | Tumor Protein p53                                | Stress Response  | Guardian of the genome; regulates DNA damage response, cell cycle, and apoptosis.               |
 
-
 # Objectives of the Project
 
 * Performing robust exploratory and statistical analysis of toxicity labels and molecular descriptors
@@ -40,7 +39,7 @@ It contains:
 * Exporting reproducible models for deployment and future predictions
 
 # Overview of the Pipeline
-![PipelineOverview](images/toxicityWF.png)
+![PipelineOverview](images\toxicityWF.png)
 
 #### **Exploratory Data Analysis (EDA)**
 * Visualized distribution of different molecular features and class imbalances. 
